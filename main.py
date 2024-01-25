@@ -3,7 +3,7 @@ def hello():
 		print("Hello World!")
 
 def viva():
-	print("Viva mech-mat faculty")
+	print("Viva mech-mat faculty!!!")
 
 hello()
 viva()
